@@ -1,0 +1,228 @@
+LP              Nazwa ściany            Nazwa kopalni   Eef       LZPDRmax  LZKDRmax  TPKdmax   TPKzmmax  WDBmax    RWmax     WDBzm     WDBmin    LZPDRZNmax
+5.		ściana 22		KWK N		220,00    5,73      0,82      845,26    158,84    12867,04  3171,00   1987,71   1987,71   11,39     
+3.		ściana 18		KWK J		280,00    4,50      0,64      713,48    203,85    6579,17   3165,17   1254,12   1254,12   13,70     
+2.		ściana 12		KWK J		350,00    3,60      0,51      888,03    253,72    5649,46   1226,38   1299,91   1299,91   11,67     
+4.		ściana 19		KWK J		320,00    3,94      0,56      720,40    205,83    4830,47   1621,75   1031,37   1031,37   7,59      
+1.		ściana 9		KWK J		280,00    4,56      0,58      536,56    137,58    5675,41   2105,41   1069,93   1069,93   13,25     
+6.		ściana 24		KWK N		280,00    4,28      0,87      637,89    165,68    2990,83   926,83    595,49    595,49    22,35     
+7.		ściana 28		KWK N		250,00    5,00      0,76      529,93    122,10    1220,09   420,09    212,35    212,35    35,51     
+Iteracja 0
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      1,00      0,14      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:7450.879383381332
+Iteracja 1
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      2,00      0,29      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:9438.587259381333
+Iteracja 2
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      3,00      0,43      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:11426.295135381333
+Iteracja 3
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      4,00      0,57      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:13414.003011381334
+Iteracja 4
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,00      0,71      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:15401.710887381334
+Iteracja 5
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      0,00      0,00
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 16847.316615381336
+Iteracja 6
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      1,00      0,14
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 17218.03990971467
+Iteracja 7
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      2,00      0,29
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 17588.763204048002
+Iteracja 8
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      3,00      0,43
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 17959.486498381335
+Iteracja 9
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      1,00      0,14      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:18330.209792714668
+Iteracja 10
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      2,00      0,29      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:19584.332063786667
+Iteracja 11
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      3,00      0,43      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:20838.454334858667
+Iteracja 12
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,00      0,57      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:22092.576605930666
+Iteracja 13
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      0,00      0,00
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 22719.637741466664
+Iteracja 14
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      1,00      0,14
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 22953.54149837295
+Iteracja 15
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      2,00      0,29
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 23187.445255279235
+Iteracja 16
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      3,00      0,43
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 23421.34901218552
+Iteracja 17
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      4,00      0,57
+2.		ściana 12		KWK J		      1,00      0,14      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:23655.252769091807
+Iteracja 18
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      4,00      0,57
+2.		ściana 12		KWK J		      2,00      0,29      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:24955.164810234663
+Iteracja 19
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      4,00      0,57
+2.		ściana 12		KWK J		      3,00      0,43      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB:26255.07685137752
+Iteracja 20
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      4,00      0,57
+2.		ściana 12		KWK J		      3,60      0,51      0,00      0,00
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 27035.02407606323
+Iteracja 21
+LP              Nazwa ściany            Nazwa kopalni         LZPDR     LZKDR     LZPSN     LZKSN     
+5.		ściana 22		KWK N		      5,73      0,82      4,00      0,57
+3.		ściana 18		KWK J		      4,50      0,64      4,00      0,57
+2.		ściana 12		KWK J		      3,60      0,51      1,00      0,14
+4.		ściana 19		KWK J		      1,00      0,14      0,00      0,00
+1.		ściana 9		KWK J		      1,00      0,13      0,00      0,00
+6.		ściana 24		KWK N		      1,00      0,20      0,00      0,00
+7.		ściana 28		KWK N		      1,00      0,15      0,00      0,00
+SWDB: 27277.467988498604

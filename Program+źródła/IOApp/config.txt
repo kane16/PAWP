@@ -1,0 +1,12 @@
+﻿Nazwa pliku:
+Formularz input-output
+Liczba dni roboczych w roku:
+252
+Zakres dni roboczych: 
+<220;280>
+Dopuszczalna praca w soboty i niedziele: 
+tak
+Skrócony czas pracy: 
+nie
+Liczba dodatkowych weekendów produkcyjnych w roku: 
+47
