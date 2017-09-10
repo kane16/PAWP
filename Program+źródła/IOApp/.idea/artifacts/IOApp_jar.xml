@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IOApp:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="IOApp.jar">
+      <element id="module-output" name="IOApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-ooxml-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/xmlbeans-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-examples-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-excelant-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-scratchpad-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/poi-ooxml-schemas-3.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jary/commons-collections4-4.1-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -20,77 +20,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
-    <orderEntry type="module-library">
-      <library name="poi-3.15.jar">
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-3.15.jar!/" />
+          <root url="file://$MODULE_DIR$/../jary" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="poi-examples-3.15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-examples-3.15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="poi-excelant-3.15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-excelant-3.15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="poi-ooxml-3.15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-ooxml-3.15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="poi-ooxml-schemas-3.15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-ooxml-schemas-3.15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="poi-scratchpad-3.15.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/poi-scratchpad-3.15.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="xmlbeans-2.3.0.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/xmlbeans-2.3.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="commons-collections4-4.1.jar">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../jary/commons-collections4-4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../jary" recursive="false" />
       </library>
     </orderEntry>
   </component>
